@@ -1,4 +1,4 @@
-# MCP39F521
+# simple-sip-client
 This is simple SIP client to make SIP calls to local ASTERISK VoIP server.
 Desigend as backgroud daemon for MythTV frontend.
 Script is controlled by semaphore files located in '/tmp/ dir.
